@@ -1,1 +1,42 @@
-ITEM A)
+ITEM A) Relação entre DataCenters e a LGPD
+   DataCenters são instalações físicas que abrigam uma infraestrutura de computadores, essas "centrais de dados" tem diversas funções, como a de "host" de servidores e a de armazenamento de dados de rede por exempo. Essas  instalações não tem um tamanho definido, podendo ocupar de uma sala até mesmo um prédio inteiro de computadores e maquinário, dependendo da função que tenham que realizar, DataCenters são extremamente comuns em grandes empresas de computação, de serviço e até mesmo de vendas, a depender do número de movimentações requisitadas.
+   A LGPD, Lei Geral de Proteção de Dados, foi uma lei promulgada com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade, e a livre formação da personalidade de cada indivíduo. Esta lei se trata de proteger a divulgação de dados pessoas físicos e digitais de pessoas físicas e pessoas jurídicas tanto de direito público como de direito privado.
+
+   Agora, a relação da LGPD com os DataCenters se dá na proteção física e digital desses locais que são praticamente um tesouro de dados para possíveis invasores, a LGPD visa cuidar desses estabelecimentos para proteger os usuários que cedem suas informações para as empresas que são donas desse esquipamento e também da própria empresa que guarda informações confidenciais de si mesma nesses imensos bancos de dados. Dessa forma faz-se imprescindível a proteção e o cuidado com esses estabelecimentos e a LGPD é cada vez mais essencial no mundo de hoje.
+
+Fontes de pesquisa:https://zeittec.com.br/seu-data-center-esta-adequado-a-lgpd/#:~:text=A%20Lei%20Geral%20de%20Proteção,vazamentos%2C%20roubos%20ou%20outros%20danos.
+https://www.ibm.com/br-pt/topics/data-centers
+https://aws.amazon.com/pt/what-is/data-center/#:~:text=Um%20datacenter%20corresponde%20a%20um,dados%20e%20equipamentos%20de%20rede.
+https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd#:~:text=A%20Lei%20Geral%20de%20Proteção,da%20personalidade%20de%20cada%20indivíduo.
+
+ITEM B) Formatos de arquivo de dados proprietários e abertos 
+
+ITEM B 1)
+
+Formatos abertos, são formatos de arquivos que não se encontram como patentiados ou seja, qualquer um que quiser pode criar um programa capaz de utilizar este tipo de arquivo o que permite uma maior operabilidade e incentiva a concorrencia entre os criadores de softwares e também estende a "vida útil" desse formato de arquivo.
+
+Exemplos de formatos de arquivo aberto:
+TXT (um formato de texto que não contém formatação)
+HTML/XHTML (linguagem)
+PNG (um formato de imagem)
+
+Formatos proprietários, são formatos de arquivo que, diferentemente do dos Formatos abertos, são patentiados e tem exclusividade em seu uso, de um lado isso é muito bom para a proteção de um arquivo, pois seu uso seria minimamente controlado evitando que essa informação possa "vazar" com tanta facilidade, por outro lado a vida útil deste tipo de arquivo pode ser muito curta já que ele depende de um software muito específico para seu uso e se este software for abandonado o arquivo pode acabar pendendo sua utilidade e se tornar obsoleto.
+
+Exemplos de formatos de arquivo proprietário:
+DWG (AutoCad Drawing)
+SWF (Shockwave Flash)
+DOC (formato proprietário de texto)
+PPT (formato proprietário de apresentação de slides)
+
+ITEM B 2)
+
+Os tipos de formatos se relacionam com o conceito de dados públicos da seguinte forma, os arquivos de formato aberto tem suas especificações divulgados para todos, ou seja qualquer um consegue ter acesso a como é feita a formatação daquele tipo de arquivo o que torna esse dado público, já os arquivos de formato de proprietário não realizam essa divulgação pois são patentiados e de operabilidade privada logo as informações sobre como a formatação desse tipo de arquivo é feita não são divulgadas.
+
+
+Fonte de pesquisa:https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+
+
+
+
+
+
