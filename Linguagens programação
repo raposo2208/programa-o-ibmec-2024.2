@@ -1,0 +1,42 @@
+3 exemplos de linguagens
+python- é uma linguagem interpretada, ou seja que utiliza um "interpretador" para executar o código, python é uma linguagem mais simples no geral, essa linguagem é normalmente a mais utilizada para introduzir um indivíduo a programação. Entretanto por se tratar de uma linguagem interpretada, a linguagem em python é um pouco mais lenta, pois esse processo de interpretação do código leva mais tempo para a execução, já que o programa sempre realiza uma releitura completa do código antes de roda-lo.
+
+C++- a linguagem em c++ diferente da em python é uma linguagem compilada ou seja, basicamente ela se divide em duas etapas, na primeira etapa o código é programado normalmente assim como na em python, na segunda etapa o código é "passado" no "compilador" o que gera um arquivo "EXE"(arquivo executável) diferente da linguagem em python que passa pelo "interpretador", na programação em C++ é gerado um arquivo que é capaz de executar o código, em python o próprio interpretador executa o código. A linguagem em C++ é mais rápida do que a em python ,pois a compilação é feita de maneira direta para rodar o código, diferente da programação em python que é sempre feita a releitura antes do arquivo ser executado.
+
+Java- A linguagem em Java é considerada uma linguagem híbrida que compila e executa o próprio código, ou seja o processo de compilação é muito parecido com o processo de C++, porém Java tem uma etapa extra, o seu código executável é executado por um programa próprio (JVM), que garante estabilidade para o código e garante portabilidade para múltiplas plataformas. A programação em Java é muito utilizada para programas muito grandes que necessitam de muita memória e tem maior complexidade. Assim como a em C++ a programação em Java também é uma linguagem mais rápida já que ela se auto executa e não necessita de uma releitura sempre que for executada.
+
+escrevendo e executando em python
+def Olamundo():
+    print("Ola Mundo")
+Olamundo()
+
+escrevendo e executando em C++
+#import <stdio.h>
+
+void OlaMundo(){
+    printf("Ola Mundo!");
+}
+
+int main(){
+    OlaMundo();
+    return 0;
+}
+
+escrevendo e executando em Java
+
+import java.util. *;
+
+public class Main {
+    public static void main(String[] args){
+        System.out.println("Olá Mundo!");
+        }
+ 
+}
+
+FOTO DOS CÓDIGOS SENDO EXECUTADOS NO ENVIO DO ARQUIVO DO TRABALHO
+
+
+
+
+
+
