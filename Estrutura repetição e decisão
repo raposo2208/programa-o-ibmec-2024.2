@@ -1,0 +1,47 @@
+Repetição:
+
+def recursao():
+    i = 0
+    while (i<5):
+        print("Mengo!")
+        i = i + 1
+
+recursao()
+
+Mengo!
+Mengo!
+Mengo!
+Mengo!
+Mengo!
+
+=== Code Execution Successful ===
+
+
+
+
+Decisão:
+
+def Decisao():
+
+    print("Digite um número:")
+    numero = input()
+
+    if (int(numero) < 0):
+        print("Seu número é Negativo!")
+
+    elif(int(numero) == 0):
+        print("Seu número é 0!")
+
+    else:
+        print("Seu número é Positivo!")
+
+Decisao()
+
+Digite um número:
+0
+Seu número é 0!
+
+=== Code Execution Successful ===
+
+
+
